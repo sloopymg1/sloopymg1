@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sloopy Mike Gyamfi and I come from Ghana. 
 - 👀 I’m interested in building applications that can help solve some of the challenges in Ghana and Sub-Saharan Africa as a whole
-- 🌱 I’m currently learning Vue.js and have used Drupal extensively so im learning to use drupal as a backend to create a decoupled website using vuejs for the frontend
+- 🌱 I’m currently learning Vue.js and subsequently Nuxt 3 and have used Drupal extensively so Im learning to use drupal as a backend to create a decoupled website using vuejs and Nuxt 3 for the frontend
 - 💞️ I’m looking to collaborate on any interesting projects that seeks to help the African to use technology to help themselves where possible.
 - 📫 How to reach me You may call me on +233557409099 or send an email to sloopymikegyamfi@gmail.com
 
